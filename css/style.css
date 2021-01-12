@@ -22,3 +22,20 @@
     margin-right:100px;
     margin-top:79px;
 }
+
+#match{
+    background-color: rgb(238, 238, 238);
+    color: black;
+    height:100px; 
+    width: 35%; 
+    float: right; 
+    margin-right: 100px;
+}
+
+#info{
+    background-color: rgb(238, 238, 238);
+    color: black;
+    height:100px;
+    width: 50%; 
+    margin-left: 100px;
+}
