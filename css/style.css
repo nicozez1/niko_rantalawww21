@@ -49,11 +49,14 @@
     margin-left: 100px;
 }
 #footer {
+    position:sticky;
     background-color:gray;
     color:white;
     clear:both;
     text-align:center;
-   
-    padding: 50px;
-  
+    
+    padding:50px;
+    
+    
+    
 }
