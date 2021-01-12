@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+#header {
+    background-color:white;
+    color:black;
+    text-align:center;
+    padding:5px;
+	font-size:40px;
+    width: 50%;
+    margin: 100px;
+}
+
+#navbar{
+    float:right;
+    font-size: 30px;
+}
+
+#biglogo{
+    float:right;
+    height:295px; 
+    width:740px; 
+    margin-right:100px;
+    margin-top:79px;
+}
