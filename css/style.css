@@ -14,7 +14,6 @@
 
 #nav{
     background-color: gray;
-    float:right;
     font-size: 30px;
 }
 #nav ul li {
@@ -31,10 +30,10 @@
 
 #biglogo{
     float:right;
-    height:295px; 
-    width:500px; 
-    margin-right:100px;
-    margin-top:90px;
+    width:250px;
+    height: 295px;
+    margin-right: 550px;
+    margin-top: 85px;
 }
 
 #matchbanner{
