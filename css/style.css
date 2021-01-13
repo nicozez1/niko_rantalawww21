@@ -6,7 +6,8 @@
     text-align:center;
     padding:5px;
 	font-size:40px;
-    width: 50%;
+    width: 1000px;
+    height: 295px;
     margin:100px;
 }
 
@@ -32,7 +33,7 @@
     height:295px; 
     width:500px; 
     margin-right:100px;
-    margin-top:78px;
+    margin-top:90px;
 }
 
 #matchbanner{
@@ -42,24 +43,39 @@
     width: 35%; 
     float: right; 
     margin-right: 100px;
+    text-align: center;
+    
 }
-
 #match{
     background-color: rgb(238, 238, 238);
     color: black;
     height:100px; 
-    width: 35%; 
-    margin-left: 1129px;
+    width: 100%; 
     margin-top: 30px;
+    text-align: center;
+    
 }
 
+
 #info{
-    background-color: rgb(238, 238, 238);
+    background-color: rgb(247, 18, 18);
     color: black;
     height:100px;
     width: 50%; 
-    margin-left: 100px;
+    margin-left:100px;
+    text-align: center;
+    
 }
+#info2{
+    background-color: rgb(247, 18, 18);
+    color: black;
+    height:100px;
+    width: 50%; 
+    margin-left:100px;
+    text-align: center;
+    margin-top:30px;
+}
+
 #footer {
     position: sticky;
     top:0;
