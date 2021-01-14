@@ -1,4 +1,28 @@
 @charset "utf-8";
+/* Exercise3 */
+figure {
+    float: right;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    margin-right: 500px;
+    border: gray;
+  }
+
+body{
+    /* Sorry i used picture */
+    /* Exercise3 */
+    background-image:url("../images/tausta.png") !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font:20px;
+    color:black;
+}
+/* Exercise3 */
+h1{
+    text-decoration: underline;
+    color: red;
+    font-size: 16;
+}
 
 #header {
     background-color:white;
@@ -7,55 +31,57 @@
     padding:5px;
 	font-size:40px;
     width: 1000px;
-    height: 295px;
-    margin:100px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    overflow: auto;
 }
 
-
+/* Exercise3 */
 #nav{
     background-color: gray;
     font-size: 30px;
 }
+/* Exercise3 */
 #nav ul li {
     display: inline-block;
     
 }
-
+/* Exercise3 */
+#nav ul li:hover {
+    background-color: #333;
+	
+}
+/* Exercise3 */
 #nav ul li a{
 	color: #CCC;
     text-decoration: none;
 }
 
 
-
-#biglogo{
-    float:right;
-    width:250px;
-    height: 295px;
-    margin-right: 550px;
-    margin-top: 85px;
-}
-
 #matchbanner{
     background-color: rgb(238, 238, 238);
     color: black;
-    height:120px; 
     width: 35%; 
     float: right; 
     margin-right: 100px;
     text-align: center;
-    
 }
 #match{
     background-color: rgb(238, 238, 238);
     color: black;
     height:100px; 
     width: 100%; 
-    margin-top: 30px;
+    margin-top: 10px;
     text-align: center;
     
 }
 
+video{
+    margin-left: 100px;
+    margin-top:10px;
+}
 
 #info{
     background-color: rgb(238, 238, 238);
@@ -83,11 +109,7 @@
     background-color: grey;
     color: white;
     text-align: center;
-
-
-
 }
-
 
 
 
